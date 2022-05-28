@@ -1,4 +1,4 @@
-# Css Flexbox Trial
+# brainnest-css-assignment
 Css flexbox assingment for Brainnest
 
 [Link to My Page]([https://www.google.com](http://192.168.1.5:5500/MainCss/index.html))
