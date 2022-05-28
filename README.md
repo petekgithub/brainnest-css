@@ -1,7 +1,7 @@
 # brainnest-css-assignment
 Css flexbox assingment for Brainnest
 
-## This is a simple web page made with html and css. I used flexbox.
+#### This is a simple web page made with html and css. I used flexbox.
 
 [Link to My Page][(file:///home/petekqt/Projects/Github_Projects/VisualStudioCodeProjects/brainnest/MainCss/index.html)](https://petekgithub.github.io/brainnest-css-assignment/)
 
